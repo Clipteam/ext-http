@@ -1,0 +1,16 @@
+{
+    "shiki.http.name": "HTTP",
+    "shiki.http.description": "Feel the charm of the Internet!",
+    "shiki.http.category": "HTTP",
+    "shiki.http.setHeader": "set request header [KEY] to [VALUE]",
+    "shiki.http.getHeader": "get request header [KEY]",
+    "shiki.http.deleteHeader": "delete request header [KEY]",
+    "shiki.http.get": "GET [URL]",
+    "shiki.http.post": "POST",
+    "shiki.http.put": "PUT",
+    "shiki.http.delete": "DELETE",
+    "shiki.http.connect": "CONNECT",
+    "shiki.http.option": "OPTION",
+    "shiki.http.patch": "PATCH",
+    "shiki.http.send": "send [OPTION] request with body [BODY] to [URL]"
+}

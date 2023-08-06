@@ -1,0 +1,16 @@
+{
+    "shiki.http.name": "HTTP",
+    "shiki.http.description": "感受互联网的魅力!",
+    "shiki.http.category": "HTTP",
+    "shiki.http.setHeader": "设置请求头 [KEY] 为 [VALUE]",
+    "shiki.http.getHeader": "获取请求头 [KEY]",
+    "shiki.http.deleteHeader": "删除请求头 [KEY]",
+    "shiki.http.get": "GET [URL]",
+    "shiki.http.post": "POST",
+    "shiki.http.put": "PUT",
+    "shiki.http.delete": "DELETE",
+    "shiki.http.connect": "CONNECT",
+    "shiki.http.option": "OPTION",
+    "shiki.http.patch": "PATCH",
+    "shiki.http.send": "将 [BODY] 以 [OPTION] 方法请求 [URL]"
+}

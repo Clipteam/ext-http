@@ -1,0 +1,23 @@
+{
+  "name": "internal-extensions",
+  "scripts": {
+    "build": "webpack --color --progress",
+    "lint": "eslint ./index.ts --ext .ts,.js",
+    "typecheck": "tsc --watch --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.8",
+    "@types/webpack": "^5.28.1",
+    "@typescript-eslint/eslint-plugin": "^6.2.1",
+    "@typescript-eslint/parser": "^6.2.1",
+    "clipcc-extension": "^0.2.0",
+    "copy-webpack-plugin": "^11.0.0",
+    "eslint": "^8.46.0",
+    "ts-loader": "^9.4.4",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "zip-webpack-plugin": "^4.0.1"
+  }
+}
